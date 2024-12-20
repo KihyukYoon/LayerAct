@@ -3,6 +3,7 @@ This is the official repository of "LayerAct: Advanced Activation Mechanism for 
 
 The main manuscript is available at [AAAI25]() and [arXiv](), and the Appendix is [here](https://github.com/KihyukYoon/LayerAct/blob/main/AAAI25_LayerAct_Appendix.pdf). 
 
+<!-- 
 ## Enviornment and Datasets 
 ### Install
 Create a conda virtual environment and activate it. 
@@ -30,10 +31,7 @@ For the experimental reproduction, you need 7 datasets, (CIFAR10, CIAFR100, Imag
 
 ## Usage 
 ### Evaluation 
-We provide the trained networks from our experiments will be available soon. 
-<!-- 
-are available on our [Google Drive](https://drive.google.com/drive/folders/10LNLxGxyDVCk1J3wthxmCYsyKnpC6CC1?usp=sharing).
--->
+The trained networks from our experiments are available on our [Google Drive](https://drive.google.com/drive/folders/10LNLxGxyDVCk1J3wthxmCYsyKnpC6CC1?usp=sharing).
 - Use the scripts file in the `scripts` folder to evaluate the trained networks.
 
 - For example, to evaluate the ResNet20 with LA-SiLU on CIFAR10 with a single GPU (cuda:0):
@@ -68,3 +66,4 @@ bash ./scripts/ImageNet/train.sh resnet50 la_silu <your-CIFAR10-path> <your-GPU-
 ```
 bash ./scripts/UNet/train.sh la_silu <your-CIFAR10-path> <your-GPU-device-ids-to-use>
 ```
+-->
