@@ -1,5 +1,7 @@
 # Layer-level activation (LayerAct) Mechanism
-This repository contains the PyTorch based implementation of Layer-level activation (LayerAct) functions. 
+This is the official repository of "LayerAct: Advanced Activation Mechanism for Robust Inference of CNNs" which is accepted by AAAI 2025. 
+
+The main manuscript is available at [AAAI25]() and [arXiv](), and the Appendix is [here](). 
 
 ## Enviornment and Datasets 
 ### Install
