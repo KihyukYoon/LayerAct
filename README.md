@@ -3,8 +3,6 @@ This is the official repository of "LayerAct: Advanced Activation Mechanism for 
 
 The main manuscript is available at [AAAI25]() and [arXiv](), and the Appendix is [here](https://github.com/KihyukYoon/LayerAct/blob/main/AAAI25_LayerAct_Appendix.pdf). 
 
-The code for training and trained network will be available soon. 
-
 <!-- 
 ## Enviornment and Datasets 
 ### Install
