@@ -3,7 +3,6 @@ This is the official repository of "LayerAct: Advanced Activation Mechanism for 
 
 The main manuscript is available at [AAAI25]() and [arXiv](), and the Appendix is [here](https://github.com/KihyukYoon/LayerAct/blob/main/AAAI25_LayerAct_Appendix.pdf). 
 
-<!-- 
 ## Enviornment and Datasets 
 ### Install
 Create a conda virtual environment and activate it. 
@@ -66,4 +65,3 @@ bash ./scripts/ImageNet/train.sh resnet50 la_silu <your-CIFAR10-path> <your-GPU-
 ```
 bash ./scripts/UNet/train.sh la_silu <your-CIFAR10-path> <your-GPU-device-ids-to-use>
 ```
--->
